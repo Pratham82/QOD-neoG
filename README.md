@@ -3,8 +3,8 @@
 - [x] [QOD 01 (12-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-01/index.js)
 - [x] [QOD 02 (13-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-02/index.js)
 - [x] [QOD 03 (14-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-03/index.js)
-- [ ] [QOD 04 (15-04-2022)]
-- [ ] [QOD 05 (16-04-2022)]
+- [x] [QOD 04 (15-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-04/index.js)
+- [x] [QOD 05 (16-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-05/index.js)
 
 - [ ] [QOD 06 (18-04-2022)]
 - [x] [QOD 07 (19-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-07/index.js)
