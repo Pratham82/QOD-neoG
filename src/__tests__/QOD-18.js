@@ -1,4 +1,4 @@
-import { findLastWordLen, isAnagram, shiftWord } from './index.js'
+import { findLastWordLen, isAnagram, shiftWord } from '../QOD-18'
 
 describe('Testing QOD 18', () => {
   // Question 1
