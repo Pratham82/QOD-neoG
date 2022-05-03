@@ -1,12 +1,12 @@
-
 /* Q.1
 Given a string st, return the length of the last word
 eg. 'hello neogrammers':  11
 eg. 'hello neogrammers you guys rock': 4
 */
 
-const findLastWordLen = sentence => sentence.split(' ')[sentence.split(' ').length - 1].length
-console.log(findLastWordLen('hello neoGrammers'))
+const findLastWordLen = sentence =>
+  sentence.split(' ')[sentence.split(' ').length - 1].length
+// console.log(findLastWordLen('hello neoGrammers'))
 
 /* Q.2
 Given two check if the second string is an anagram of the first
@@ -25,8 +25,8 @@ const isAnagram = (string1, string2) => {
   return s1Arr === s2Arr
 }
 
-console.log(isAnagram('below', 'elbow'))
-console.log(isAnagram('pain', 'gain'))
+// console.log(isAnagram('below', 'elbow'))
+// console.log(isAnagram('pain', 'gain'))
 
 /* Q.3
 Given two strings check if the first string can match the 
@@ -43,6 +43,7 @@ const shiftWord = (word1, word2) => {
   return res.includes(word2)
 }
 
-console.log('--')
-console.log(shiftWord('xyza', 'zaxy'))
-console.log(shiftWord('xyza', 'yzxa'))
+// console.log(shiftWord('xyza', 'zaxy'))
+// console.log(shiftWord('xyza', 'yzxa'))
+
+export { findLastWordLen, isAnagram, shiftWord }
