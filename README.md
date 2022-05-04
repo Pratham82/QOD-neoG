@@ -21,4 +21,4 @@
 - [x] [QOD 16 (29-04-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-16/index.js)
 - [x] [QOD 17 (02-05-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-17/index.js)
 - [x] [QOD 18 (03-05-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-18/index.js)
-- [x] [QOD 18 (04-05-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-19/index.js)
+- [x] [QOD 19 (04-05-2022)](https://github.com/Pratham82/QOD-neoG/blob/master/src/QOD-19/index.js)
